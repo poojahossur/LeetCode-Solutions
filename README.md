@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
