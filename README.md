@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
