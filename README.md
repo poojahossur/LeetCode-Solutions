@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/poojahossur/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/poojahossur/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/poojahossur/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
