@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/poojahossur/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
