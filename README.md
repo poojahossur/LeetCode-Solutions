@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/poojahossur/LeetCode-Solutions/tree/master/0136-single-number) |
